@@ -1,2 +1,2 @@
 # ttpedersen.github.io
-Mail page
+Main page
